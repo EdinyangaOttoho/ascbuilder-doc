@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ASC Builder'
+copyright = '2022, AlgoKnox'
+author = 'AlgoKnox'
 
 release = '0.1'
 version = '0.1.0'
