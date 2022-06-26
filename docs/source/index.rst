@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
-===================================
+ASC Builder: A GUI tool for creating Algorand Smart Contracts
+=============================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ASC Builder** is a drag-and-drop GUI tool that makes it possible for developers to create Pyteal source code that can in turn be compiled to TEAL smart contracts by the use of UI widgets, actions and configurations that specify their behaviours.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
+.. figure:: ./assets/home.png
 
-   This project is under active development.
+The aim of the project is to make the development of smart contracts easier and provide an open and shared workflow that features exports and imports of projects via JSON schemas.
 
-Contents
---------
+It also helps in preventing unforseen errors when constructing nodes, methods and actions.
 
 .. toctree::
+   :maxdepth: 1
+   :caption: User Guide
 
-   usage
-   api
+   methods
+   variables
+   nodes
+   control_flow
