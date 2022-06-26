@@ -12,5 +12,4 @@ A typical Pyteal source code result would appear thus:
 .. figure:: ./assets/compiled.png
   :align: center
 
-
 The code can be copied to clipboard and then executed to generate TEAL code.
