@@ -6,6 +6,7 @@ Methods
 A method (or route) can be added to the GUI by clicking on the 'Method' menu item at the top-right part of the screen.
 
 .. figure:: ./assets/method.png
+    :align: center
 
 You then have to provide the name of the method, which **MUST** be named with the variable naming standards as used in Python.
 

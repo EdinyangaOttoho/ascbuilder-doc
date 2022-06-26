@@ -5,6 +5,7 @@ ASC Builder: A GUI tool for creating Algorand Smart Contracts
 
 
 .. figure:: ./assets/home.png
+   :align: center
 
 The aim of the project is to make the development of smart contracts easier and provide an open and shared workflow that features exports and imports of projects via JSON schemas.
 
