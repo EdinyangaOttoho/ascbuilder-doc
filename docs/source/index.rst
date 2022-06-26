@@ -19,3 +19,5 @@ It also helps in preventing unforseen errors when constructing nodes, methods an
    variables
    nodes
    control_flow
+   global_states
+   compiling
