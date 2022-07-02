@@ -16,4 +16,6 @@ Once that is set, the application creates them upon deployment.
 
 Nevertheless, the behaviours for the scenarios of opt in and creation can be altered by creating methods, :code:`OptIn()` and :code:`OnCreate()` and adding nodes that should perform the intended functions.
 
+Likewise, the behaviour of the clear Program can be altered by creating a :code:`clearProgram()` method and adding nodes to it.
+
 Once these methods are created, the default :code:`Approve()` return value would be overriden in the Pyteal source code result returned.
